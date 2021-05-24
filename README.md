@@ -3,7 +3,9 @@ Configuration data for Dumang Free keyboard layout.
 
 ## Dumang Free Layout 20201023
 
-See what the layout look like [here](http://www.keyboard-layout-editor.com/#/gists/ba2f6453e9ff54037c17aef8be461320).
+![layout screenshot](layout_screenshot.png)
+
+Bigger and more details [here](http://www.keyboard-layout-editor.com/#/gists/ba2f6453e9ff54037c17aef8be461320).
 
 ### Features:
  - Split
