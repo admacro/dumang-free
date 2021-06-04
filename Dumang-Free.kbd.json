@@ -137,23 +137,22 @@
     {
       "x": 3.95,
       "c": "#333333",
-      "a": 4,
-      "f": 5,
-      "fa": [
-        4
-      ],
-      "w": 1.5
-    },
-    "<i class='fa fa-user'></i>\n\n\n\n\n\n\n\n\nCtrl"
-  ],
-  [
-    {
-      "x": 3.95,
       "a": 7,
       "f": 5,
       "w": 1.5
     },
-    "<i class='mss mss-Unicode-Command-3'></i> <i class='kb kb-logo-windows-8'></i> <i class='kb kb-logo-linux-tux'></i>"
+    "Ctrl"
+  ],
+  [
+    {
+      "x": 3.95,
+      "a": 4,
+      "fa": [
+        1
+      ],
+      "w": 1.5
+    },
+    "<i class='fa fa-user'></i>\n\n\n<i class='mss mss-Unicode-Command-3'></i> <i class='kb kb-logo-windows-8'></i> <i class='kb kb-logo-linux-tux'></i>"
   ],
   [
     {
@@ -163,6 +162,7 @@
       "c": "#ededed",
       "t": "#000000",
       "p": "Cherry",
+      "a": 7,
       "f": 9
     },
     "#"
