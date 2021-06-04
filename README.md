@@ -5,7 +5,7 @@ Configuration data for [Dumang Free keyboard](https://www.admacro.xyz/kbd/dumang
 
 ![layout screenshot](layout_screenshot.png)
 
-Bigger and more details [here](http://www.keyboard-layout-editor.com/#/gists/ba2f6453e9ff54037c17aef8be461320).
+Bigger and more details [here](http://www.keyboard-layout-editor.com/#/gists/04304dff960cfb969da6850280b3853c).
 
 ### Features:
  - Split
