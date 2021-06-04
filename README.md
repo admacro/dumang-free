@@ -1,5 +1,5 @@
 # dumang-free
-Configuration data for Dumang Free keyboard layout.
+Configuration data for [Dumang Free keyboard](https://www.admacro.xyz/kbd/dumang_dk6.html) layout.
 
 ## Dumang Free Layout 20201023
 
